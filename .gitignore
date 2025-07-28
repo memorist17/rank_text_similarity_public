@@ -1,0 +1,9 @@
+# 機密データファイル
+chroma_db/*
+!chroma_db/.gitkeep
+novel/*
+!novel/.gitkeep
+document/*
+!document/.gitkeep
+.env
+*.pdf
